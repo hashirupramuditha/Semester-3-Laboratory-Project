@@ -12,4 +12,6 @@ The main functional blockdiagram view of the system is given below.
 
 ![Hotplate Temperature Controller](https://github.com/hashirupramuditha/Semester-3-Laboratory-Project/assets/109572216/8e663355-20ce-49c4-92a1-cc6e5670fb20)
 
-This repository is included the docmentation files, schematic files, PCB designing and enclosure designing files of the complete project. 
+The maximum controlling temeperature of this system is about 200<sup>o</sup>C and the cpmplete design is implemented using analog circuit systems. Based on theoretical calculations, analog circuit components were selected and the system wadss simulated under those component values by using Multisim software tool.
+
+This repository is included the simulation files, schematic, layout and 3D files, PCB designing and enclosure designing files of the complete project. 
