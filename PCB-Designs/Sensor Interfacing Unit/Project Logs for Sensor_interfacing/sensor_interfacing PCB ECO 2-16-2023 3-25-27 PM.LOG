@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=-12V Pin=subtractor-4
+Removed Pin From Net: NetName=+12V Pin=subtractor-8
+Change Component Designator: OldDesignator=U? NewDesignator=10x_gain
+Change Component Designator: OldDesignator=U? NewDesignator=buffer1
+Change Component Designator: OldDesignator=U? NewDesignator=subtractor
+Change Net Name : Old Net Name=NetR4_1 New Net Name=Net10x_gain_12
+Change Net Name : Old Net Name=NetR4_2 New Net Name=Netbuffer1_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=Net10x_gain_14
+Change Net Name : Old Net Name=NetR6_2 New Net Name=Net10x_gain_13
+Added Pin To Net: NetName=Netbuffer_1 Pin=buffer-1
+Added Pin To Net: NetName=Netbuffer_1 Pin=buffer-2
+Added Pin To Net: NetName=Netbuffer_1 Pin=R12-2
+Added Net: Name=Netbuffer_1
+Added Pin To Net: NetName=Netbuffer_3 Pin=buffer-3
+Added Pin To Net: NetName=Netbuffer_3 Pin=R10-2
+Added Net: Name=Netbuffer_3

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetCB_5 Pin=R?-2
+Removed Pin From Net: NetName=5V Pin=R?-3
+Added Component: Designator=R7(TRIM_3306F-1-105)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3306F-1-105/Bourns%20-%20J.W.%20Miller/view-part/862876/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3306F-1-105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3306F Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3306F-1-105/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3306F-1-105/Bourns%20-%20J.W.%20Miller/view-part/862876/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCB_5 Pin=R7-2
+Added Pin To Net: NetName=5V Pin=R7-3
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-1
+Added Net: Name=NetR7_1
