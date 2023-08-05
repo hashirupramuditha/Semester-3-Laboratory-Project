@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=R10-3
+Change Component Footprint: Designator=R10 Old Footprint=FP-3386P-MFG New Footprint=BOUR-3852A-282-103AL-3_V
+Change Component Comment : Designator=R10 Old Comment=temp New Comment=3852A-282-103AL
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=41D108E5-FBD1-4723-828C-CB9E73F1216B New ItemGUID=EAA8F604-1988-4E5D-9200-EBC2DC606EF8 Old RevisionGUID=8ACBC5C3-773C-44C1-93D9-9323D63EE73F New RevisionGUID=5F42F7C7-12C1-463D-964B-0C3E2FC4FD85
+Change component parameters: Designator = "R10" ("R10"); Footprint = "FP-3386P-MFG"; UniqueID = "\WXXFEBVP" ("\WXXFEBVP")
+Change component parameters (AddParameter): Name = "Actuator Diameter"; Value = "0.250"(6.35mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Length"; Value = "0.875"(22.23mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Slotted"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Associated Product"; Value = "36-8560-ND
+-KNOBINSTRUMW/DIALRND.9"DIA
+36-8555-ND
+-KNOBINSTRUMSKIRTEDRND.7"DIA
+36-8556-ND
+-KNOBINSTRUMSKIRTEDRND.9"DIA
+36-8565-ND
+-KNOBINSTRUMDBLBARRND.7"DIA
+36-8566-ND
+-KNOBINSTRUMDBLBARRND.9"DIA
+36-8568-ND
+-KNOBINSTRUMSGLBARRND.7"DIA
+36-8569-ND
+-KNOBINSTRUMSGLBARRND.9"DIA
+36-8559-ND
+-KNOBINSTRUMW/DIALRND.7"DIA
+226-1006-ND
+-KNOBBLKGLOSS.75"DIA.250"SHAFT
+226-1007-ND
+-KNOBBLKGLOSS.925"DIA.250"SHAFT
+226-1011-ND
+-KNOBBLKGLOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Built in Switch"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bushing Thread"; Value = "3/8-32"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog Drawings"; Value = "3852SeriesSide1
+
+3852SeriesSide2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Potentiometers,VariableResistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/11831/0900766b80f93b4b-11831016.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Sep-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "RotaryPotentiometers,Rheostats"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "PanelMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Gangs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Turns"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "3852and3856Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "3852A282103AL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCN Design/Specification"; Value = "PBTResinJun/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCN Other"; Value = "MultipleChanges01/Dec/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistive Material"; Value = "Cermet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Information"; Value = "3852A-LMaterialDeclaration"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rotation"; Value = "280deg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "3852"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±150ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SolderLug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR10_3 Pin=R10-3
+Added Pin To Net: NetName=NetR10_3 Pin=R11-2
+Added Net: Name=NetR10_3
