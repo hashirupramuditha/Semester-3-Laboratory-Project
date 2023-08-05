@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=power header?-1
-Removed Pin From Net: NetName=-12V Pin=power header?-2
-Removed Pin From Net: NetName=+12V Pin=power header?-3
-Removed Pin From Net: NetName=5V Pin=power header?-4
-Added Component: Designator=P?(61300411121)
-Add Pin To Net: Unknown Pin: Pin P?-1
-Add Pin To Net: Unknown Pin: Pin P?-2
-Add Pin To Net: Unknown Pin: Pin P?-3
-Add Pin To Net: Unknown Pin: Pin P?-4
