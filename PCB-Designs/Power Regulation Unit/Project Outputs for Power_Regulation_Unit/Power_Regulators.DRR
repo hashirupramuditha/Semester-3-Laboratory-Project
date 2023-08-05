@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Power_Regulators.PcbDoc   2/14/2023  1:32:37 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Power_Regulators.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             12        PTH        164.84mm (6.49inch)
+T2      1mm (39mil)                                               Round             6         PTH        47.55mm (1.87inch)
+T3      1.05mm (41mil)                                            Round             8         PTH        72.12mm (2.84inch)
+T4      1.1mm (43mil)                                             Round             17        PTH        201.64mm (7.94inch)
+T5      1.35mm (53mil)                                            Round             3         PTH        5.07mm (0.20inch)
+T6      2mm (79mil)                                               Round             4         PTH        246.00mm (9.69inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              50
+
+Total Processing Time (hh:mm:ss) : 00:00:00

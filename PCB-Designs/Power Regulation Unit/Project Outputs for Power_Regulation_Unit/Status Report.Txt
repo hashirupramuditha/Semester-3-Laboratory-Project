@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Power_Regulation_Unit.PrjPcb]
+   Generated File[Power_Regulators.TXT]
+   Generated File[Power_Regulators.LDP]
+   Generated File[Power_Regulators.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:32:37 PM On 2/14/2023
